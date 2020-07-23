@@ -6,7 +6,6 @@
     android:background="@drawable/background"
     tools:context=".MainActivity">
 
-
     <Button
         android:id="@+id/forest"
         style="@style/Widget.AppCompat.Button.Borderless"
